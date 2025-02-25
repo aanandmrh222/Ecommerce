@@ -16,7 +16,7 @@ ShopHub is a modern, responsive e-commerce platform built with React and TypeScr
 
 ## 🚀 Tech Stack
 
-- **Frontend Framework**: React 18
+- **Frontend Framework**: React.JS
 - **Type Safety**: TypeScript
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
